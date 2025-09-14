@@ -1,0 +1,1 @@
+An in-class demonstration of a Stack class.
